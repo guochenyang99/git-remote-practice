@@ -4,4 +4,4 @@ I created a branch and edited this file on GitHub.
 
 ## Lesson 2
 
-This pull request will receive another commit later.
+This pull request now contains multiple commits.
